@@ -12,7 +12,7 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
+  title: "On the Grow Namibia"
   image: "images/watch-2.png"
 
   # feature at the left of the image
