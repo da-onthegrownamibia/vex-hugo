@@ -39,18 +39,18 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
-url = "products/"
-weight = 2
-[[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 3
-[[menu.main]]
-name = "Review"
+name = "About"
 pre = "#"
 url = "testimonial"
 weight = 4
+[[menu.main]]
+name = "Projects"
+url = "products/"
+weight = 2
+[[menu.main]]
+name = "Impact Snippets"
+url = "blog/"
+weight = 3
 [[menu.main]]
 name = "Contact"
 url = "contact/"
