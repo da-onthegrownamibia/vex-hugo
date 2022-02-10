@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "On The Grow | young people rising"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By & Developed By [DigitizeAfrika](https://digitizeafrika.com/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
