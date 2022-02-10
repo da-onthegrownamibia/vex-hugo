@@ -8,7 +8,7 @@ banner:
     Our mission is to ignite action, proactivity and sustainable transformation by young Namibians and beyond!
   image: images/watch.png
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products/
 features:
