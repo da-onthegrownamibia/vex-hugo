@@ -1,5 +1,5 @@
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-disableLanguages = []
+disableLanguages = [true]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -8,13 +8,13 @@ title = "On The Grow | young people rising"
 contentDir = "content/english"
 copyright = "Designed by & Developed by [DigitizeAfrika](https://digitizeafrika.com/)"
 languageCode = "en-us"
-languageName = "En3"
+languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
-languageName = "Fr3"
+languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
