@@ -19,7 +19,7 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Contact"
+name = "Contact Us"
 url = "contact/"
 weight = 1
 [[menu.main]]
@@ -40,14 +40,14 @@ name = "Impact Snippets"
 url = "blog/"
 weight = 3
 [[menu.main]]
-name = "Contact"
+name = "Contact Us"
 url = "contact/"
 weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "On The Grow | young people rising"
 logo = "images/logo.png"
 logo_width = "100px"
 [[params.plugins.css]]
