@@ -7,3 +7,8 @@ draft: false
 ---
 
 A seminar with 30 selected young people. This seminar drew focus on public speaking, leadership, interview skills, network building and opportunity identification.
+
+
+## Watch this space!
+
+We are currently cooking up this year's innovation effort. Keep an eye out!
