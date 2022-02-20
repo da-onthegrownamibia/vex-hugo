@@ -6,7 +6,7 @@ banner:
     On The Grow is a youth platform with the mission to inspire disruptive, sustainable innovation.
 
     Our mission is to ignite action, proactivity and sustainable transformation by young Namibians and beyond!
-  image: images/watch.png
+  image: images/ont_6.png
   button:
     enable: false
     label: Browse All Products
@@ -14,7 +14,7 @@ banner:
 features:
   enable: true
   title: On the Grow Namibia
-  image: images/watch-2.png
+  image: images/ont_1.png
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
@@ -43,7 +43,7 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
+  image: images/ont_6.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
@@ -53,7 +53,7 @@ about_product:
   enable: true
   title: Why Choose Apple Watch
   items:
-  - image: images/showcase/showcase-4.png
+  - image: images/ont_3.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
       sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
@@ -62,7 +62,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#/"
-  - image: images/showcase/showcase-3.png
+  - image: images/showcase/ont_2.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
       sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
@@ -76,7 +76,7 @@ products:
   title: Checkout Our All Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: images/ont_3.png
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
@@ -86,7 +86,7 @@ testimonial:
   testimonial_item:
   - name: Jonathon Andrew
     designation: CEO, Themefisher
-    image: images/avater.png
+    image: images/ont_4.png
     content: A wonderful serenity has taken possession of my entire soul, like these
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
@@ -94,7 +94,7 @@ testimonial:
       sense of mere tranquil existence, that I neglect my talents.
   - name: Jonathon Andrew
     designation: CEO, Themefisher
-    image: images/avater.png
+    image: images/ont_4.png
     content: A wonderful serenity has taken possession of my entire soul, like these
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
@@ -102,7 +102,7 @@ testimonial:
       sense of mere tranquil existence, that I neglect my talents.
   - name: Jonathon Andrew
     designation: CEO, Themefisher
-    image: images/avater.png
+    image: images/ont_4.png
     content: A wonderful serenity has taken possession of my entire soul, like these
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
