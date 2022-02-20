@@ -1,5 +1,5 @@
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-disableLanguages = true
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
