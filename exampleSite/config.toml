@@ -24,7 +24,6 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "About Us"
-pre = "#"
 url = "/blog/post-1"
 weight = 4
 [[menu.main]]
