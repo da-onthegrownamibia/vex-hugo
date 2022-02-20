@@ -28,7 +28,7 @@ url = "/blog/post-1"
 weight = 2
 [[menu.main]]
 name = "Projects"
-url = "projects/"
+url = "/projects/"
 weight = 3
 [[menu.main]]
 name = "Impact Snippets"
