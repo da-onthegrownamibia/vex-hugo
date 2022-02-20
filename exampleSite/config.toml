@@ -40,7 +40,7 @@ url = "contact/"
 weight = 5
 [params]
 author = "Themefisher"
-contact_form_action = "https://getform.io/f/90dc1247-93b1-43ea-a678-d5e0959b3959"
+contact_form_action = "https://formspree.io/f/xoqrdpaa"
 currency = "$"
 description = "On The Grow | young people rising"
 logo = "images/logo.png"
