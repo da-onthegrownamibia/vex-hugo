@@ -6,13 +6,13 @@ theme = "vex-hugo"
 title = "On The Grow | young people rising"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By & Developed By [DigitizeAfrika](https://digitizeafrika.com/)"
+copyright = "Designed by & Developed by [DigitizeAfrika](https://digitizeafrika.com/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
