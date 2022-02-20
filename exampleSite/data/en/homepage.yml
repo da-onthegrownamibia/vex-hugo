@@ -82,7 +82,7 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Word from our participants
+  title: Word from our participants...
   testimonial_item:
   - name: OTG 21
     designation: On The Grow Participant
