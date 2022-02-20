@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
 <!--
-	lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
+		{{- partial "footer.html" . -}}
 -->
 
 {{- partial "head.html" . -}}
@@ -11,7 +11,7 @@
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{- block "main" . }}{{- end }}
-	{{- partial "footer.html" . -}}
+
 </body>
 
 </html>
