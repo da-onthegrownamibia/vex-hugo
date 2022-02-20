@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : "Contact us details"
 
 office:
   title : "Contact us!"
@@ -11,6 +11,3 @@ office:
     
 draft: false
 ---
-
-
-We welcome collaborations, feedback and support. If you would like to get involved in the work to inspire innovation in Namibia and beyond,  connect with us! 
