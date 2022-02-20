@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 date: 2019-10-17T11:22:16+06:00
-image: "images/ont_3.png"
+image: "images/ont_1.png"
 description : "Our Story"
 draft: false
 ---
