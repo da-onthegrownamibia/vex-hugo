@@ -8,20 +8,16 @@ title = "On The Grow | young people rising"
 contentDir = "content/english"
 copyright = "Designed by & Developed by [DigitizeAfrika](https://digitizeafrika.com/)"
 languageCode = "en-us"
-languageName = "En"
+languageName = "En3"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
-languageName = "Fr"
+languageName = "Fr3"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer]]
-name = "Contact Us"
-url = "contact/"
-weight = 1
 [[menu.main]]
 name = "Home"
 url = "/"
