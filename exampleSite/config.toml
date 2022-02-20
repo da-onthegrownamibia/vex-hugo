@@ -65,7 +65,7 @@ link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.snipcart]
 enable = true
