@@ -4,7 +4,8 @@ description : "Contact us details"
 
 office:
   title : "Contact us!"
-  mobile : "+1 909 4501 408 (USA), +264 81 814 9761 (NAM)"
+  mobile : "+264 81 814 9761 (NAM)"
+  mobile2 : "+1 909 4501 408 (USA)"
   email : "info@onthegrownamibia.com"
   email2 : "btobias@onthegrownamibia.com"
   email3 : "tmahua@onthegrownamibia.com"

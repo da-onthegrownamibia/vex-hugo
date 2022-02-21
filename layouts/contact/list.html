@@ -10,6 +10,8 @@
         <ul class="list-unstyled contact-list">
           {{with .mobile}} <li class="mb-3"><a href="tel:{{ . }}"><i class="tf-ion-ios-telephone mr-2"></i>
               {{ . }}</a></li>{{ end }}
+          {{with .mobile2}} <li class="mb-3"><a href="tel:{{ . }}"><i class="tf-ion-ios-telephone mr-2"></i>
+              {{ . }}</a></li>{{ end }}
           {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
           {{end }}
           {{with .email2}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
