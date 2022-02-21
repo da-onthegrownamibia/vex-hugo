@@ -175,6 +175,7 @@ a:active {
   }
 
   p {
+    color: #111111;
     font-size: 17px;
     line-height: 24px;
     font-weight: 300;
@@ -208,7 +209,7 @@ a:active {
   &:hover,
   &:focus {
     background-color: rgb(243, 236, 236);
-    color: rgb(99, 96, 96);
+    color: rgb(10, 10, 10);
   }
 }
 
@@ -441,7 +442,7 @@ footer {
   p.copyright-text {
     font-weight: 300;
     font-size: 12px;
-    color: rgb(17, 17, 17);
+    color: rgb(8, 8, 8);
     letter-spacing: 3px;
     margin-top: 15px;
 
@@ -480,7 +481,7 @@ s.price {
 
   li,
   a {
-    color: #282828;
+    color: #050505;
     font-size: 18px;
   }
 }
