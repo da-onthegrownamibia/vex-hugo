@@ -5,7 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #f9a743;
+$primary-color: hsl(57, 28%, 75%);
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -15,7 +15,7 @@ body {
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
-  color: #3b4045;
+  color: #070707;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
 }
