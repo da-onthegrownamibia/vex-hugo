@@ -10,4 +10,4 @@ In 2018, one of our founders moved from Namibia to graduate high school at the U
 
 Our programming is designed with young people in mind and we are incredibly excited to continue to build on our gains to inspire courageous, disruptive innovation.
 
-[link](http://link/path/to/target "TITLE ON LINK")
+[Download Our Story in pdf Format](/assets/ont_final.pdf "Our Story")
